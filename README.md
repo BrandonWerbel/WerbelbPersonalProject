@@ -1,5 +1,17 @@
 # WerbelbPersonalProject
 
+## Instructions for Running Project
+In order to run this project, you will need [python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/) installed on your computer.
+
+You will also need certain python modules installed, which you can find in [requirements.txt](/requirements.txt).
+
+To run the actual program, use the following command in Terminal from the root of this downloaded repository. It might take some time to start, but be patient and it should eventually start up.
+```
+python script.py
+```
+
+You can stop the program by using `CTRL-C` or just closing the terminal window.
+
 ## Journels
 
 ### 12/22/2020

@@ -3,6 +3,7 @@ from Simulator import Simulator
 from Predicter import Predicter
 
 # Creates simulation object
+# Change "false" to "true" for realtime mode
 sim = Simulator('SPY', 500, 0, False)
 
 # Uncomment the next 2 lines to create graph with predictor object
