@@ -1,3 +1,5 @@
+# This is a list of python modules that need to be downloaded to run my project. You can do this by running "pip install (insert module name)" in Terminal.
+
 requests
 matplotlib
 statsmodels
